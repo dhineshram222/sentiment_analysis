@@ -1,11 +1,11 @@
-#Overview:
+# Overview:
 
 The Sentiment Analysis Project is a machine learning–based application that automatically determines the sentiment of a given text (Positive, Negative, or Neutral). It is particularly useful for analyzing product reviews, customer feedback, or social media content.
 
 The project demonstrates Natural Language Processing (NLP) techniques, including text preprocessing, feature extraction, and model training, to classify sentiments effectively.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Objectives:
+# Objectives:
 
 Automate the process of identifying sentiment from textual data.
 
@@ -15,7 +15,7 @@ Provide insights that can help businesses, researchers, and organizations unders
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Features:
+# Features:
 
 Preprocessing of raw text (stopword removal, stemming/lemmatization, etc.).
 
@@ -29,7 +29,7 @@ User interface for inputting text and getting sentiment predictions.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Tech Stack:
+# Tech Stack:
 
 Programming Language: Python
 
@@ -47,7 +47,7 @@ Deployment: Streamlit
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Workflow:
+# Workflow:
 
 Data Collection – Import dataset (e.g., Twitter data, IMDB reviews, Kaggle datasets).
 
@@ -63,7 +63,7 @@ Deployment (optional) – Serve predictions through a Flask/Streamlit app.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Installation & Usage:
+# Installation & Usage:
 
 Clone the repository:
 
@@ -77,4 +77,4 @@ pip install -r requirements.txt
 
 Run the web app:
 
- python -m streamlit run app.py
+python -m streamlit run app.py
