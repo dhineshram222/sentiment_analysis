@@ -3,6 +3,7 @@ Overview:
 The Sentiment Analysis Project is a machine learning–based application that automatically determines the sentiment of a given text (Positive, Negative, or Neutral). It is particularly useful for analyzing product reviews, customer feedback, or social media content.
 
 The project demonstrates Natural Language Processing (NLP) techniques, including text preprocessing, feature extraction, and model training, to classify sentiments effectively.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives:
 
