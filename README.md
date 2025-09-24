@@ -4,7 +4,7 @@ The Sentiment Analysis Project is a machine learning–based application that au
 
 The project demonstrates Natural Language Processing (NLP) techniques, including text preprocessing, feature extraction, and model training, to classify sentiments effectively.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives:
 
 Automate the process of identifying sentiment from textual data.
@@ -12,6 +12,8 @@ Automate the process of identifying sentiment from textual data.
 Build an accurate and scalable sentiment classification model.
 
 Provide insights that can help businesses, researchers, and organizations understand customer opinions and feedback.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Features:
 
@@ -24,6 +26,8 @@ Sentiment classification using ML/DL models (e.g., Naïve Bayes, SVM, LSTM, or B
 Performance evaluation using accuracy, precision, recall, and F1-score.
 
 User interface for inputting text and getting sentiment predictions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tech Stack:
 
@@ -43,6 +47,7 @@ Matplotlib / Seaborn – for data visualization
 
 Deployment: Streamlit
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Workflow:
 
@@ -58,6 +63,8 @@ Model Evaluation – Evaluate using accuracy, precision, recall, F1-score.
 
 Deployment (optional) – Serve predictions through a Flask/Streamlit app.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Installation & Usage:
 
 Clone the repository:
@@ -70,11 +77,9 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-
 Run training script:
 
 python src/train.py
-
 
 Run the web app:
 
