@@ -3,7 +3,7 @@ Overview:
 The Sentiment Analysis Project is a machine learning–based application that automatically determines the sentiment of a given text (Positive, Negative, or Neutral). It is particularly useful for analyzing product reviews, customer feedback, or social media content.
 
 The project demonstrates Natural Language Processing (NLP) techniques, including text preprocessing, feature extraction, and model training, to classify sentiments effectively.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives:
 
 Automate the process of identifying sentiment from textual data.
@@ -42,16 +42,6 @@ Matplotlib / Seaborn – for data visualization
 
 Deployment: Streamlit
 
-Project Structure:
-Sentiment-Analysis/
-│
-├── data/                 # Dataset files
-├── notebooks/            # Jupyter notebooks for EDA & model training
-├── src/                  # Source code for preprocessing & modeling
-├── models/               # Saved trained models
-├── app/                  # Web app or API (if implemented)
-├── requirements.txt      # List of dependencies
-└── README.md             # Project documentation
 
 Workflow:
 
@@ -72,8 +62,8 @@ Installation & Usage:
 Clone the repository:
 
 git clone https://github.com/username/sentiment-analysis.git
-cd sentiment-analysis
 
+cd sentiment-analysis
 
 Install dependencies:
 
