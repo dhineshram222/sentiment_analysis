@@ -69,16 +69,12 @@ Clone the repository:
 
 git clone https://github.com/username/sentiment-analysis.git
 
-cd sentiment-analysis
+cd sentiment_analysis-main
 
 Install dependencies:
 
 pip install -r requirements.txt
 
-Run training script:
-
-python src/train.py
-
 Run the web app:
 
-streamlit run app/app.py
+ python -m streamlit run app.py
