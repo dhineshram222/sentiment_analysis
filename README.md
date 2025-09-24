@@ -67,7 +67,7 @@ Installation & Usage:
 
 Clone the repository:
 
-git clone https://github.com/username/sentiment-analysis.git
+https://github.com/dhineshram222/sentiment_analysis.git
 
 cd sentiment_analysis-main
 
