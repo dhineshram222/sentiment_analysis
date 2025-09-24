@@ -39,8 +39,6 @@ NLTK / SpaCy – for text preprocessing
 
 Scikit-learn – for ML models & evaluation
 
-TensorFlow / PyTorch – for deep learning models (if used)
-
 Pandas, NumPy – for data manipulation
 
 Matplotlib / Seaborn – for data visualization
