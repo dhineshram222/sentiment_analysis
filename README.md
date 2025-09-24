@@ -4,7 +4,7 @@ The Sentiment Analysis Project is a machine learning–based application that au
 
 The project demonstrates Natural Language Processing (NLP) techniques, including text preprocessing, feature extraction, and model training, to classify sentiments effectively.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives:
 
 Automate the process of identifying sentiment from textual data.
